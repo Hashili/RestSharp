@@ -1,0 +1,14 @@
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\obj\Debug\netcoreapp2.2\BestBuyRestAutomation.csproj.CoreCompileInputs.cache
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\obj\Debug\netcoreapp2.2\BestBuyRestAutomation.AssemblyInfoInputs.cache
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\obj\Debug\netcoreapp2.2\BestBuyRestAutomation.AssemblyInfo.cs
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\BestBuyRestAutomation.deps.json
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\BestBuyRestAutomation.runtimeconfig.json
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\BestBuyRestAutomation.runtimeconfig.dev.json
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\BestBuyRestAutomation.dll
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\bin\Debug\netcoreapp2.2\BestBuyRestAutomation.pdb
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\obj\Debug\netcoreapp2.2\BestBuyRestAutomation.dll
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\obj\Debug\netcoreapp2.2\BestBuyRestAutomation.pdb
+C:\Users\habdul\source\repos\BestBuyRestAutomation\BestBuyRestAutomation\obj\Debug\netcoreapp2.2\BestBuyRestAutomation.csprojAssemblyReference.cache
