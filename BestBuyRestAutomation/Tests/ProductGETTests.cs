@@ -1,4 +1,5 @@
 ﻿using BestBuyRestAutomation.Model;
+using BestBuyRestAutomation.TestData;
 using RestSharp;
 using System;
 using System.Collections.Generic;
@@ -19,8 +20,9 @@ namespace BestBuyRestAutomation.Tests
             request = new RestRequest("products", Method.GET);
         }
 
-        [Fact]
-        public void ProductFindTests()
+        [Theory]
+        [DataProvider("Product")]
+        public void ProductFindTests(string productName, string productCode, string productDesc)
         {
             IRestResponse<Products> response = client.Execute<Products>(request);
            

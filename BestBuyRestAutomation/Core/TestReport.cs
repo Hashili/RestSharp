@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BestBuyRestAutomation.TestData
+namespace BestBuyRestAutomation.Core
 {
-    class DataProvider
+    class TestReport
     {
     }
 }
